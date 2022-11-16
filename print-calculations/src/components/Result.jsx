@@ -5,7 +5,7 @@ const Result = () => {
 
   return (
     <div className="outer-result">
-      <section className="result">${result}</section>;
+      <section className="result">${result}</section>
     </div>
   );
 };
